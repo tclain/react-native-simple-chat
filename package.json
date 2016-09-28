@@ -1,0 +1,20 @@
+{
+  "name": "react-native-simple-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tclain/react-native-simple-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tclain/react-native-simple-chat/issues"
+  },
+  "homepage": "https://github.com/tclain/react-native-simple-chat#readme"
+}

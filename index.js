@@ -1,1 +1,1 @@
-console.log('cool')
+export * from './src';
